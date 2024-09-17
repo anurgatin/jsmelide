@@ -8,5 +8,5 @@
 #Work from windows?
 WSL can provide virual linux env for you
 - [How to insall wsl](https://learn.microsoft.com/en-us/windows/wsl/install#prerequisites)
-- Check [this thread](https://stackoverflow.com/questions/37405528/installing-ruby-2-3-on-wsl-windows-subsystem-for-linux) on ruby on wsl install
+- Check [this thread](https://stackoverflow.com/questions/37405528/installing-ruby-2-3-on-wsl-windows-subsystem-for-linux) on ruby on wsl install (follow rvm flow and use ruby v3.3.5+)
 - Got `Error running 'requirements_debian_libs_install libssl-dev'`? You need to [install specific libssl version](https://stackoverflow.com/questions/57946621/error-running-requirements-debian-libs-install-libssl-dev)
